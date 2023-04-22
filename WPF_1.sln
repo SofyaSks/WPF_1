@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello", "hello\hello.csproj", "{D4AC3015-78DB-4D16-9FE9-43B19E61380E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid_wpf", "Grid_wpf\Grid_wpf.csproj", "{830C8318-C39B-498D-B209-8B031217AF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redButton", "redButton\redButton.csproj", "{A4FFFF8B-31F7-4D1A-9C78-0834705735E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vert_battery_buttons", "vert_battery_buttons\vert_battery_buttons.csproj", "{0452D650-890C-4ED1-961E-92AFEED5659F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "horiz_battery_button", "horiz_battery_button\horiz_battery_button.csproj", "{DA49168E-90D7-4B53-BB23-76569E762FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enter_form", "enter_form\enter_form.csproj", "{00385E38-80D8-4486-8E91-5A5089A49305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12", "12\12.csproj", "{8B43314A-DD9F-448F-BB75-04D31ABFB357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4AC3015-78DB-4D16-9FE9-43B19E61380E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AC3015-78DB-4D16-9FE9-43B19E61380E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AC3015-78DB-4D16-9FE9-43B19E61380E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AC3015-78DB-4D16-9FE9-43B19E61380E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830C8318-C39B-498D-B209-8B031217AF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830C8318-C39B-498D-B209-8B031217AF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830C8318-C39B-498D-B209-8B031217AF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830C8318-C39B-498D-B209-8B031217AF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FFFF8B-31F7-4D1A-9C78-0834705735E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FFFF8B-31F7-4D1A-9C78-0834705735E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FFFF8B-31F7-4D1A-9C78-0834705735E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FFFF8B-31F7-4D1A-9C78-0834705735E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0452D650-890C-4ED1-961E-92AFEED5659F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0452D650-890C-4ED1-961E-92AFEED5659F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0452D650-890C-4ED1-961E-92AFEED5659F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0452D650-890C-4ED1-961E-92AFEED5659F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA49168E-90D7-4B53-BB23-76569E762FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA49168E-90D7-4B53-BB23-76569E762FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA49168E-90D7-4B53-BB23-76569E762FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA49168E-90D7-4B53-BB23-76569E762FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00385E38-80D8-4486-8E91-5A5089A49305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00385E38-80D8-4486-8E91-5A5089A49305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00385E38-80D8-4486-8E91-5A5089A49305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00385E38-80D8-4486-8E91-5A5089A49305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B43314A-DD9F-448F-BB75-04D31ABFB357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B43314A-DD9F-448F-BB75-04D31ABFB357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B43314A-DD9F-448F-BB75-04D31ABFB357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B43314A-DD9F-448F-BB75-04D31ABFB357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AF4D8E7-F548-468C-91E3-D653B3043884}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿<Window x:Class="redButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:redButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Button>
+        <StackPanel>
+            <Rectangle Width="100" Height="100" Fill="Red"
+            Stroke ="Black" StrokeThickness="4"/>
+            <TextBlock>Запустить ядерную ракету</TextBlock>
+        </StackPanel>
+    </Button>
+</Window>
